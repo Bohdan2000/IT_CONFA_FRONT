@@ -1,4 +1,3 @@
-# vue-youtube
 
 ## Project setup
 ```
